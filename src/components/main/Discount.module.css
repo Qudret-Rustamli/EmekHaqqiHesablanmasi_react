@@ -1,0 +1,19 @@
+.disContainer{
+    margin: 20px 0 20px 0;
+}
+
+
+.disCItem{
+    display: flex;
+    align-items: center;
+    background-color: #f2f2f2;
+    border-bottom: 3px solid white;
+}
+
+.show{
+    display: flex !important;
+}
+
+.hide{
+    display: none !important;
+}
